@@ -4,7 +4,7 @@ sandbox
 ## Description
 
 This is my first git repository.
-These changes to readme file should illustarate the brunch concept.
+These changes to readme file should illustarate the branch concept.
 As it is a markdown file, lets try to put a bit markdown typical formatting:
 
 ```
